@@ -1,2 +1,2 @@
 # Cpp
-Includes basic cpp features, concepts and conventional algoirthms implementation
+Includes basic C++ features, concepts, and conventional algorithms implementation
